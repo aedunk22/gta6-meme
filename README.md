@@ -1,14 +1,10 @@
-[![make.fun · gta6-meme-x-01](https://make.fun/badge/gta6-meme-x-01.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
-[![rank](https://make.fun/badge/gta6-meme-x-01/aedunk22/gta6-meme/rank.svg)](https://make.fun/bounty/gta6-meme-x-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
-[![reward](https://make.fun/badge/gta6-meme-x-01/aedunk22/gta6-meme/reward.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+# GTA VI Waiting Room
 
-# GTA VI: Waiting Room Edition
+[![make.fun](https://make.fun/badge/gta6-meme-x-01.svg)](https://make.fun/bounty/gta6-meme-x-01)
+[![Rank](https://make.fun/badge/gta6-meme-x-01/aedunk22/gta6-meme/rank.svg)](https://make.fun/bounty/gta6-meme-x-01)
+[![Reward](https://make.fun/badge/gta6-meme-x-01/aedunk22/gta6-meme/reward.svg)](https://make.fun/bounty/gta6-meme-x-01)
 
-A meme posted on X for make.fun's **Post a GTA 6 meme on X** bounty.
+A GTA VI waiting-room parody pokes fun at the long wait for the game.
+The post carries play code `makefun-saucer-bagel-gull`.
 
-The post: https://x.com/addesh11/status/2123466100944044188
-
-makefun-saucer-bagel-gull
-
-The meme's joke turns the long wait for GTA VI into a waiting room where fans are still waiting for their turn to play.
-The post includes the make.fun play code `makefun-saucer-bagel-gull`, which identifies the entrant's make.fun account.
+[View the meme on X](https://x.com/addesh11/status/2123466100944044188).
