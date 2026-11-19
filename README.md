@@ -9,3 +9,6 @@ A meme posted on X for make.fun's **Post a GTA 6 meme on X** bounty.
 The post: https://x.com/addesh11/status/2123466100944044188
 
 makefun-saucer-bagel-gull
+
+The meme's joke turns the long wait for GTA VI into a waiting room where fans are still waiting for their turn to play.
+The post includes the make.fun play code `makefun-saucer-bagel-gull`, which identifies the entrant's make.fun account.
